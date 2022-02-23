@@ -193,7 +193,7 @@ class RightPage extends StatelessWidget {
                                         user["name"]!,
                                         style: TextStyle(
                                           color: Colors.white70,
-                                          fontSize: 18,
+                                          fontSize: 16,
                                         ),
                                       ),
                                     ),
@@ -228,7 +228,7 @@ class RightPage extends StatelessWidget {
                                       padding: const EdgeInsets.only(left: 20),
                                       child: Text(
                                         user["name"]!,
-                                        style: TextStyle(color: Colors.white70),
+                                        style: TextStyle(color: Colors.white70, fontSize: 16,),
                                       ),
                                     ),
                                     onTap: () {},

@@ -173,7 +173,7 @@ class LeftPage extends StatelessWidget {
                                   title: Text(
                                     channel,
                                     style: const TextStyle(
-                                      fontSize: 16,
+                                      fontSize: 14,
                                       color: Colors.white70,
                                       fontWeight: FontWeight.bold,
                                     ),
@@ -222,7 +222,7 @@ class LeftPage extends StatelessWidget {
                                   title: Text(
                                     channel,
                                     style: TextStyle(
-                                      fontSize: 16,
+                                      fontSize: 14,
                                       color: Colors.white70,
                                       fontWeight: FontWeight.bold,
                                     ),
@@ -248,7 +248,7 @@ class LeftPage extends StatelessWidget {
                                         'VIDEO CRAP',
                                         style: TextStyle(
                                           fontWeight: FontWeight.bold,
-                                          fontSize: 16,
+                                          fontSize: 14,
                                           color: Colors.white,
                                         ),
                                       ),
@@ -277,7 +277,7 @@ class LeftPage extends StatelessWidget {
                                   title: Text(
                                     channel,
                                     style: TextStyle(
-                                      fontSize: 18,
+                                      fontSize: 14,
                                       color: Colors.white70,
                                       fontWeight: FontWeight.bold,
                                     ),

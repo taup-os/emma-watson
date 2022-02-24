@@ -24,9 +24,9 @@ final avatars = [
 ];
 
 final users = [
-  {"name": "Ne natypal", "avatar": "https://w.wallha.com/ws/11/VbMt0u64.jpg"},
-  {"name": "Sponge Bob", "avatar": "https://w.wallha.com/ws/6/UHn7sTEQ.jpg"},
-  {"name": "Aomine daiki", "avatar": "https://w.wallha.com/ws/6/k06qKopg.jpg"},
+  {"name": "Elon Musk", "avatar": "https://w.wallha.com/ws/11/VbMt0u64.jpg"},
+  {"name": "Elliot Alderson", "avatar": "https://w.wallha.com/ws/6/UHn7sTEQ.jpg"},
+  {"name": "Steve Wozniak", "avatar": "https://w.wallha.com/ws/6/k06qKopg.jpg"},
   {"name": "Lost", "avatar": "https://w.wallha.com/ws/12/NVoWzH57.jpg"},
   {"name": "Supernatural", "avatar": "https://w.wallha.com/ws/12/PN3xsVqm.jpg"},
   {"name": "Mind Hunters", "avatar": "https://w.wallha.com/ws/10/W7ydoJTR.jpg"},
